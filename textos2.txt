@@ -1,0 +1,4 @@
+cabecera formulario
+campos a cubrir
+condiciones
+enviar

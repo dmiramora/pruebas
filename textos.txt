@@ -1,0 +1,4 @@
+cabecera
+main
+menu navegación
+footer
